@@ -24,8 +24,9 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.3",
     "siteFonts": [],
-    "uniqCompNum": 5,
-    "versionPublish": "4.8.3"
+    "uniqCompNum": 8,
+    "versionPublish": "4.8.3",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -165,10 +166,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/photo-2019-05-19-21-57-37-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -188,8 +190,8 @@
             "ShowTexts": true,
             "showButtons": true,
             "columnsColor": "#2e2e2e",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",

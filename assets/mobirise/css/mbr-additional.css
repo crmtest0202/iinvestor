@@ -4,6 +4,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -416,6 +418,10 @@ h6,
 }
 #header6-1 .mbr-section-text {
   color: #565656;
+  font-family: 'Montserrat', sans-serif;
+}
+#header6-1 STRONG {
+  font-family: 'Montserrat', sans-serif;
 }
 #ext_menu-2 .hide-buttons .nav-btn {
   display: none !important;
